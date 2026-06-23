@@ -3,3 +3,5 @@
 anaconda_projects/
 ./results./ipynb_checkpoints
 ./dataset./ipynb_checkpoints
+./dataset./processed_sequences.npz
+dataset/processed_sequences.npz
